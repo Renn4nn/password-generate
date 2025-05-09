@@ -10,7 +10,7 @@ Feito com JavaScript e ReactJS
 👌 Clone o repositório e execute localmente:
 
 ```bash
-git clone https://github.com/Renn4nn/calculator
+git clone https://github.com/Renn4nn/password-generate
 cd password-generate
 npm install
 npm run dev
