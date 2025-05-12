@@ -56,7 +56,7 @@ function App() {
           max={30}
         />
       </div>
-      <p>{passwordValue}</p>
+      <p style={{fontWeight: '600', fontSize: '20px'}}>Quantidade de caracteres:<span style={{paddingLeft: '15px',color: '#a259ff', fontWeight: '600', textShadow: '0px 0px 30px #FF2DF1'}}>{passwordValue}</span></p>
       <Button onClick={generator}>Gerar</Button>
     </Container>
   );

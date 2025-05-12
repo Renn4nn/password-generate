@@ -49,6 +49,7 @@ export const Title = styled.h1`
   margin-bottom: 24px;
   color: #a259ff;
   font-weight: bold;
+  text-shadow: 0px 0px 30px rgba(255, 45, 241, 0.48);
 
   letter-spacing: 2px;
 `;
